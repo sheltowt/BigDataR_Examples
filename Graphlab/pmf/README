@@ -9,3 +9,5 @@ Use this directory to house various scripts demonstrating the different pmf 'run
 Value
 -----
 Rapid learning of pmf commandline utilities.
+
+This sample can be run by entering ./rbm.sh in the ~/Example/Graphlab/pmf/rbm_runlevel16$ folder
